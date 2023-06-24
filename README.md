@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeBlInDD
 - 👀 I’m interested in Programming , sports physcics, chemistry, engineering and power engineering.
 - 🌱 I’m currently learning C++ and Python
-- 📫 How to reach me - Discord blindiscool
+- 📫 How to reach me - Discord - blindiscool
 
 <!---
 CodeBlInDD/CodeBlInDD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
