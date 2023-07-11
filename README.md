@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeBlInDD
-- 👀 I’m interested in Programming , sports physcics, chemistry, engineering and power engineering.
+- 👀 I’m interested in Programming , sports physics, chemistry, engineering and power engineering.
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me - Discord - blindiscool
 
