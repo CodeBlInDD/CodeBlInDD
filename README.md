@@ -1,1 +1,1 @@
-C++ I love it, I hate it
+C++, I love it, I hate it
